@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my profile ! 
 
-<!--
-**Z3NYTH/Z3NYTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Future Gamedev at your service ! 
+Frenchie guy (baguette) looking to improve its skills to just make an indie game that will check all the boxes he want in a game.
+Project will start soon !
+**--------------------------------------------------------------------------**
 
-Here are some ideas to get you started:
+__English :__        🟩🟩🟩🟩🟨
+__German :__         🟨🟥🟥🟥🟥
+__HTML/CSS :__       🟩🟥🟥🟥🟥
+__Python :__         🟩🟩🟩🟨🟥
+__C :__              🟩🟨🟥🟥🟥
+__Counter Strike :__ 🟩🟩🟩🟩🟨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**--------------------------------------------------------------------------**
